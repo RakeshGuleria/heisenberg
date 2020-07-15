@@ -1,1 +1,2 @@
-Added file to  store all the important GIT commands.
+Added file to  store all the important GIT commands:
+1.
