@@ -1,2 +1,6 @@
 Added file to  store all the important GIT commands:
 1.
+
+4.
+5.
+6.
